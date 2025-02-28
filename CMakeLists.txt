@@ -10,4 +10,9 @@ add_executable(C__Playground main.cpp
         basics/4_writing_output.cpp
         basics/5_reading_input.cpp
         basics/6_working_with_standard_library.cpp
+        data_types/1_initialize_variable.cpp
+        data_types/2_working_with_numbers.cpp
+        data_types/3_narrowing.cpp
+        data_types/4_random_numbers.cpp
+        data_types/5_formatting_output.cpp
 )
