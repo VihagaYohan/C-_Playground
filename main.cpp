@@ -2,6 +2,10 @@
 #include <stdio.h>
 
 int main() {
-    std::cout << "Hello world!";
+    int x = 10;
+    int y = 20;
+    std::cout << "x = " << x << std::endl
+    << "y = " << y;
+
     return 0;
 }

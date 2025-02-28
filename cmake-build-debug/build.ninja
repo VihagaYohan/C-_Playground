@@ -55,6 +55,42 @@ build CMakeFiles/C__Playground.dir/main.cpp.o: CXX_COMPILER__C__Playground_unsca
   OBJECT_DIR = CMakeFiles/C__Playground.dir
   OBJECT_FILE_DIR = CMakeFiles/C__Playground.dir
 
+build CMakeFiles/C__Playground.dir/basics/1_variable.cpp.o: CXX_COMPILER__C__Playground_unscanned_Debug /media/vihanga_yohan/Projects/Playgrounds/C++Playground/basics/1_variable.cpp || cmake_object_order_depends_target_C__Playground
+  DEP_FILE = CMakeFiles/C__Playground.dir/basics/1_variable.cpp.o.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/C__Playground.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__Playground.dir/basics
+
+build CMakeFiles/C__Playground.dir/basics/2_mathematical_operations.cpp.o: CXX_COMPILER__C__Playground_unscanned_Debug /media/vihanga_yohan/Projects/Playgrounds/C++Playground/basics/2_mathematical_operations.cpp || cmake_object_order_depends_target_C__Playground
+  DEP_FILE = CMakeFiles/C__Playground.dir/basics/2_mathematical_operations.cpp.o.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/C__Playground.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__Playground.dir/basics
+
+build CMakeFiles/C__Playground.dir/basics/3_order_operations.cpp.o: CXX_COMPILER__C__Playground_unscanned_Debug /media/vihanga_yohan/Projects/Playgrounds/C++Playground/basics/3_order_operations.cpp || cmake_object_order_depends_target_C__Playground
+  DEP_FILE = CMakeFiles/C__Playground.dir/basics/3_order_operations.cpp.o.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/C__Playground.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__Playground.dir/basics
+
+build CMakeFiles/C__Playground.dir/basics/4_writing_output.cpp.o: CXX_COMPILER__C__Playground_unscanned_Debug /media/vihanga_yohan/Projects/Playgrounds/C++Playground/basics/4_writing_output.cpp || cmake_object_order_depends_target_C__Playground
+  DEP_FILE = CMakeFiles/C__Playground.dir/basics/4_writing_output.cpp.o.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/C__Playground.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__Playground.dir/basics
+
+build CMakeFiles/C__Playground.dir/basics/5_reading_input.cpp.o: CXX_COMPILER__C__Playground_unscanned_Debug /media/vihanga_yohan/Projects/Playgrounds/C++Playground/basics/5_reading_input.cpp || cmake_object_order_depends_target_C__Playground
+  DEP_FILE = CMakeFiles/C__Playground.dir/basics/5_reading_input.cpp.o.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/C__Playground.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__Playground.dir/basics
+
+build CMakeFiles/C__Playground.dir/basics/6_working_with_standard_library.cpp.o: CXX_COMPILER__C__Playground_unscanned_Debug /media/vihanga_yohan/Projects/Playgrounds/C++Playground/basics/6_working_with_standard_library.cpp || cmake_object_order_depends_target_C__Playground
+  DEP_FILE = CMakeFiles/C__Playground.dir/basics/6_working_with_standard_library.cpp.o.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/C__Playground.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__Playground.dir/basics
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target C__Playground
@@ -63,7 +99,7 @@ build CMakeFiles/C__Playground.dir/main.cpp.o: CXX_COMPILER__C__Playground_unsca
 #############################################
 # Link the executable C__Playground
 
-build C__Playground: CXX_EXECUTABLE_LINKER__C__Playground_Debug CMakeFiles/C__Playground.dir/main.cpp.o
+build C__Playground: CXX_EXECUTABLE_LINKER__C__Playground_Debug CMakeFiles/C__Playground.dir/main.cpp.o CMakeFiles/C__Playground.dir/basics/1_variable.cpp.o CMakeFiles/C__Playground.dir/basics/2_mathematical_operations.cpp.o CMakeFiles/C__Playground.dir/basics/3_order_operations.cpp.o CMakeFiles/C__Playground.dir/basics/4_writing_output.cpp.o CMakeFiles/C__Playground.dir/basics/5_reading_input.cpp.o CMakeFiles/C__Playground.dir/basics/6_working_with_standard_library.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/C__Playground.dir
   POST_BUILD = :

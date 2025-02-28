@@ -1,6 +1,8 @@
 # ninja log v6
-3	29	1740757904920355100	build.ninja	7db2cea28936fa13
-0	329	1740757904926354500	CMakeFiles/C__Playground.dir/main.cpp.o	1bdcfbc5daea1f1d
-329	389	1740757905256318000	C__Playground	22624c13fa76fcdf
-1	223	1740757931100459400	CMakeFiles/C__Playground.dir/main.cpp.o	1bdcfbc5daea1f1d
-223	273	1740757931322434900	C__Playground	22624c13fa76fcdf
+3	29	1740760153049320400	build.ninja	7db2cea28936fa13
+1	220	1740759197363343300	CMakeFiles/C__Playground.dir/main.cpp.o	1bdcfbc5daea1f1d
+221	265	1740759280023699700	C__Playground	1cf157dadaf5b290
+1	219	1740759197363343300	CMakeFiles/C__Playground.dir/basics/2_mathematical_operations.cpp.o	84e0c027009d20d7
+1	227	1740759197363343300	CMakeFiles/C__Playground.dir/basics/3_order_operations.cpp.o	b338f863d2f51c9d
+0	228	1740758323735187500	CMakeFiles/C__Playground.dir/basics/1_variable.cpp.o	2cde450d4846937e
+1	221	1740759279803725300	CMakeFiles/C__Playground.dir/basics/4_writing_output.cpp.o	835ed6b15984d2e6
