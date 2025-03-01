@@ -60,7 +60,12 @@
 				8,
 				9,
 				10,
-				11
+				11,
+				12,
+				13,
+				14,
+				15,
+				16
 			]
 		}
 	],
@@ -104,7 +109,12 @@
 				8,
 				9,
 				10,
-				11
+				11,
+				12,
+				13,
+				14,
+				15,
+				16
 			]
 		}
 	],
@@ -180,6 +190,36 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "data_types/5_formatting_output.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "data_types/6_data_types_and_limits.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "data_types/7_working_with_boolean.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "data_types/8_working_with_strings.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "data_types/9_working_with_arrays.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "data_types/10_type_conversion.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

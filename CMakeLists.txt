@@ -15,4 +15,9 @@ add_executable(C__Playground main.cpp
         data_types/3_narrowing.cpp
         data_types/4_random_numbers.cpp
         data_types/5_formatting_output.cpp
+        data_types/6_data_types_and_limits.cpp
+        data_types/7_working_with_boolean.cpp
+        data_types/8_working_with_strings.cpp
+        data_types/9_working_with_arrays.cpp
+        data_types/10_type_conversion.cpp
 )
