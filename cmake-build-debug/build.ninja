@@ -151,6 +151,48 @@ build CMakeFiles/C__Playground.dir/data_types/10_type_conversion.cpp.o: CXX_COMP
   OBJECT_DIR = CMakeFiles/C__Playground.dir
   OBJECT_FILE_DIR = CMakeFiles/C__Playground.dir/data_types
 
+build CMakeFiles/C__Playground.dir/decision_making/1_comparison_operators.cpp.o: CXX_COMPILER__C__Playground_unscanned_Debug /media/vihanga_yohan/Projects/Playgrounds/C++Playground/decision_making/1_comparison_operators.cpp || cmake_object_order_depends_target_C__Playground
+  DEP_FILE = CMakeFiles/C__Playground.dir/decision_making/1_comparison_operators.cpp.o.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/C__Playground.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__Playground.dir/decision_making
+
+build CMakeFiles/C__Playground.dir/decision_making/2_logical_operators.cpp.o: CXX_COMPILER__C__Playground_unscanned_Debug /media/vihanga_yohan/Projects/Playgrounds/C++Playground/decision_making/2_logical_operators.cpp || cmake_object_order_depends_target_C__Playground
+  DEP_FILE = CMakeFiles/C__Playground.dir/decision_making/2_logical_operators.cpp.o.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/C__Playground.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__Playground.dir/decision_making
+
+build CMakeFiles/C__Playground.dir/decision_making/3_order_of_logical_operators.cpp.o: CXX_COMPILER__C__Playground_unscanned_Debug /media/vihanga_yohan/Projects/Playgrounds/C++Playground/decision_making/3_order_of_logical_operators.cpp || cmake_object_order_depends_target_C__Playground
+  DEP_FILE = CMakeFiles/C__Playground.dir/decision_making/3_order_of_logical_operators.cpp.o.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/C__Playground.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__Playground.dir/decision_making
+
+build CMakeFiles/C__Playground.dir/decision_making/4_if_statement.cpp.o: CXX_COMPILER__C__Playground_unscanned_Debug /media/vihanga_yohan/Projects/Playgrounds/C++Playground/decision_making/4_if_statement.cpp || cmake_object_order_depends_target_C__Playground
+  DEP_FILE = CMakeFiles/C__Playground.dir/decision_making/4_if_statement.cpp.o.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/C__Playground.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__Playground.dir/decision_making
+
+build CMakeFiles/C__Playground.dir/decision_making/5_nested_if_statement.cpp.o: CXX_COMPILER__C__Playground_unscanned_Debug /media/vihanga_yohan/Projects/Playgrounds/C++Playground/decision_making/5_nested_if_statement.cpp || cmake_object_order_depends_target_C__Playground
+  DEP_FILE = CMakeFiles/C__Playground.dir/decision_making/5_nested_if_statement.cpp.o.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/C__Playground.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__Playground.dir/decision_making
+
+build CMakeFiles/C__Playground.dir/decision_making/6_conditional_statement.cpp.o: CXX_COMPILER__C__Playground_unscanned_Debug /media/vihanga_yohan/Projects/Playgrounds/C++Playground/decision_making/6_conditional_statement.cpp || cmake_object_order_depends_target_C__Playground
+  DEP_FILE = CMakeFiles/C__Playground.dir/decision_making/6_conditional_statement.cpp.o.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/C__Playground.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__Playground.dir/decision_making
+
+build CMakeFiles/C__Playground.dir/decision_making/7_switch_statement.cpp.o: CXX_COMPILER__C__Playground_unscanned_Debug /media/vihanga_yohan/Projects/Playgrounds/C++Playground/decision_making/7_switch_statement.cpp || cmake_object_order_depends_target_C__Playground
+  DEP_FILE = CMakeFiles/C__Playground.dir/decision_making/7_switch_statement.cpp.o.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/C__Playground.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__Playground.dir/decision_making
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target C__Playground
@@ -159,7 +201,7 @@ build CMakeFiles/C__Playground.dir/data_types/10_type_conversion.cpp.o: CXX_COMP
 #############################################
 # Link the executable C__Playground
 
-build C__Playground: CXX_EXECUTABLE_LINKER__C__Playground_Debug CMakeFiles/C__Playground.dir/main.cpp.o CMakeFiles/C__Playground.dir/basics/1_variable.cpp.o CMakeFiles/C__Playground.dir/basics/2_mathematical_operations.cpp.o CMakeFiles/C__Playground.dir/basics/3_order_operations.cpp.o CMakeFiles/C__Playground.dir/basics/4_writing_output.cpp.o CMakeFiles/C__Playground.dir/basics/5_reading_input.cpp.o CMakeFiles/C__Playground.dir/basics/6_working_with_standard_library.cpp.o CMakeFiles/C__Playground.dir/data_types/1_initialize_variable.cpp.o CMakeFiles/C__Playground.dir/data_types/2_working_with_numbers.cpp.o CMakeFiles/C__Playground.dir/data_types/3_narrowing.cpp.o CMakeFiles/C__Playground.dir/data_types/4_random_numbers.cpp.o CMakeFiles/C__Playground.dir/data_types/5_formatting_output.cpp.o CMakeFiles/C__Playground.dir/data_types/6_data_types_and_limits.cpp.o CMakeFiles/C__Playground.dir/data_types/7_working_with_boolean.cpp.o CMakeFiles/C__Playground.dir/data_types/8_working_with_strings.cpp.o CMakeFiles/C__Playground.dir/data_types/9_working_with_arrays.cpp.o CMakeFiles/C__Playground.dir/data_types/10_type_conversion.cpp.o
+build C__Playground: CXX_EXECUTABLE_LINKER__C__Playground_Debug CMakeFiles/C__Playground.dir/main.cpp.o CMakeFiles/C__Playground.dir/basics/1_variable.cpp.o CMakeFiles/C__Playground.dir/basics/2_mathematical_operations.cpp.o CMakeFiles/C__Playground.dir/basics/3_order_operations.cpp.o CMakeFiles/C__Playground.dir/basics/4_writing_output.cpp.o CMakeFiles/C__Playground.dir/basics/5_reading_input.cpp.o CMakeFiles/C__Playground.dir/basics/6_working_with_standard_library.cpp.o CMakeFiles/C__Playground.dir/data_types/1_initialize_variable.cpp.o CMakeFiles/C__Playground.dir/data_types/2_working_with_numbers.cpp.o CMakeFiles/C__Playground.dir/data_types/3_narrowing.cpp.o CMakeFiles/C__Playground.dir/data_types/4_random_numbers.cpp.o CMakeFiles/C__Playground.dir/data_types/5_formatting_output.cpp.o CMakeFiles/C__Playground.dir/data_types/6_data_types_and_limits.cpp.o CMakeFiles/C__Playground.dir/data_types/7_working_with_boolean.cpp.o CMakeFiles/C__Playground.dir/data_types/8_working_with_strings.cpp.o CMakeFiles/C__Playground.dir/data_types/9_working_with_arrays.cpp.o CMakeFiles/C__Playground.dir/data_types/10_type_conversion.cpp.o CMakeFiles/C__Playground.dir/decision_making/1_comparison_operators.cpp.o CMakeFiles/C__Playground.dir/decision_making/2_logical_operators.cpp.o CMakeFiles/C__Playground.dir/decision_making/3_order_of_logical_operators.cpp.o CMakeFiles/C__Playground.dir/decision_making/4_if_statement.cpp.o CMakeFiles/C__Playground.dir/decision_making/5_nested_if_statement.cpp.o CMakeFiles/C__Playground.dir/decision_making/6_conditional_statement.cpp.o CMakeFiles/C__Playground.dir/decision_making/7_switch_statement.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/C__Playground.dir
   POST_BUILD = :

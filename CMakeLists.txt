@@ -20,4 +20,11 @@ add_executable(C__Playground main.cpp
         data_types/8_working_with_strings.cpp
         data_types/9_working_with_arrays.cpp
         data_types/10_type_conversion.cpp
+        decision_making/1_comparison_operators.cpp
+        decision_making/2_logical_operators.cpp
+        decision_making/3_order_of_logical_operators.cpp
+        decision_making/4_if_statement.cpp
+        decision_making/5_nested_if_statement.cpp
+        decision_making/6_conditional_statement.cpp
+        decision_making/7_switch_statement.cpp
 )
